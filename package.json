@@ -1,0 +1,49 @@
+{
+  "name": "week",
+  "description": "Get the current week number.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/week",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonschlinkert/week.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/week/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/jonschlinkert/week/blob/master/LICENSE-MIT"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "moment": "^2.8.4",
+    "should": "^4.3.0"
+  },
+  "keywords": [
+    "calendar",
+    "date",
+    "dates",
+    "format",
+    "get",
+    "js",
+    "month",
+    "months",
+    "util",
+    "utility",
+    "week",
+    "weekday",
+    "weeks",
+    "year"
+  ]
+}
