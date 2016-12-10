@@ -1,7 +1,7 @@
 /**
  * week <https://github.com/jonschlinkert/week>
  *
- * Copyright (c) 2014 Jon Schlinkert, contributors.
+ * Copyright (c) 2014-2016 Jon Schlinkert.
  * Licensed under the MIT license.
  */
 
