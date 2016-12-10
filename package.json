@@ -1,7 +1,7 @@
 {
   "name": "week",
   "description": "Get the current week number.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/datetime/week",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "datetime/week",
